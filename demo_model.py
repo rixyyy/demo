@@ -116,4 +116,5 @@ def train_model(fold, train_batch_size = 16, epochs = 10):
 
 
 if __name__ == '__main__':
-    train_model()      
+    train_model() 
+    # new note     
